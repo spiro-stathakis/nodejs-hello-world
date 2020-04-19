@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-hello-world",
+  "version": "0.0.1",
+  "description": "node.js ci/cd playground",
+  "author": "Spiro Stathakis <spiro.stathakis@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
